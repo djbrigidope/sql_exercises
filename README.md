@@ -4,8 +4,8 @@
 - **Team name:** #unadvised-quail
 
 ### Day 1: SQL Basics & Advanced SQL Queries
-- [ ] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
-- [ ] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
+- [x] Complete the [SQL Basics course](https://www.khanacademy.org/computing/computer-programming/sql#sql-basics)
+- [x] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
 
 ### Day 2: Relational Queries
 - [ ] Complete the [Relational Queries course](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)
@@ -34,14 +34,14 @@
   - [ ] complete the tutorial for the `group by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
 
 ### Day 4: Mini Project & Exercises
-- [ ] Exercises 1-13 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
-  - [ ] `sql/01-create-table-student.sql`
-  - [ ] `sql/02-create-table-friend.sql`
-  - [ ] `sql/03-create-table-like.sql`
-  - [ ] `sql/04-load-table-learner.sql`
-  - [ ] `sql/05-load-table-friend.sql`
-  - [ ] `sql/06-load-table-like.sql`
-  - [ ] `sql/07-query-friends-gabriel.sql`
+- [x] Exercises 1-13 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
+  - [x] `sql/01-create-table-student.sql`
+  - [X] `sql/02-create-table-friend.sql`
+  - [x] `sql/03-create-table-like.sql`
+  - [x] `sql/04-load-table-learner.sql`
+  - [x] `sql/05-load-table-friend.sql`
+  - [x] `sql/06-load-table-like.sql`
+  - [x] `sql/07-query-friends-gabriel.sql`
   - [ ] `sql/08-query-likes-grade-two-or-more.sql`
   - [ ] `sql/09-mutual-likes.sql`
   - [ ] `sql/10-not-liked.sql`
