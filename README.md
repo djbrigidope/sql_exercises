@@ -1,6 +1,6 @@
 # core-sql
 - **Name:** Brigido Bautista
-- **Github handle:** DJ Brigidope
+- **Github handle:** djbrigidope
 - **Team name:** #unadvised-quail
 
 ### Day 1: SQL Basics & Advanced SQL Queries
@@ -8,7 +8,7 @@
 - [x] Complete the [Advanced SQL queries course](https://www.khanacademy.org/computing/computer-programming/sql#more-advanced-sql-queries)
 
 ### Day 2: Relational Queries
-- [ ] Complete the [Relational Queries course](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)
+- [X] Complete the [Relational Queries course](https://www.khanacademy.org/computing/computer-programming/sql#relational-queries-in-sql)
 - [ ] Complete the [Modifying databases with SQL course](https://www.khanacademy.org/computing/computer-programming/sql#modifying-databases-with-sql)
 
 ### Day 3: Install Postgres and Complete Tutorials with psql
@@ -42,15 +42,15 @@
   - [x] `sql/05-load-table-friend.sql`
   - [x] `sql/06-load-table-like.sql`
   - [x] `sql/07-query-friends-gabriel.sql`
-  - [ ] `sql/08-query-likes-grade-two-or-more.sql`
-  - [ ] `sql/09-mutual-likes.sql`
+  - [x] `sql/08-query-likes-grade-two-or-more.sql`
+  - [X] `sql/09-mutual-likes.sql`
   - [ ] `sql/10-not-liked.sql`
   - [ ] `sql/11-liked-but-does-not-like.sql`
   - [ ] `sql/12-find-friends-in-common.sql`
   - [ ] `sql/13-popular-students.sql`
 
 ### Day 5: Exercises on SQL Bolt
-- [ ] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
+- [x] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
 
 ### Stretch
 - [ ] Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
